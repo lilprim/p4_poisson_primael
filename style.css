@@ -39,7 +39,12 @@ a:hover {
     position: relative;
 }
 
+.row_footer{
+    background-color: blanchedalmond;
+}
+
 .bloc .container {
+
     padding-left: 0;
     padding-right: 0;
 }
@@ -879,6 +884,8 @@ h4 {
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
     }
+
+    
     .bloc-group,
     .bloc-group .bloc {
         display: block;
