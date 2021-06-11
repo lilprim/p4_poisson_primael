@@ -920,8 +920,8 @@ h4 {
         position: relative;
     }
     .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+       /* padding-left: constant(safe-area-inset-left);
+        padding-right: constant(safe-area-inset-right);*/
     }
 
     
@@ -1089,5 +1089,4 @@ h4 {
         text-align: center;
     }
 }
-style.css
-Affichage de style.css en cours...
+
