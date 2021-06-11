@@ -4368,12 +4368,12 @@ tbody.collapse.in {
 }
 
 .dropdown-menu>.disabled>a:focus,
-.dropdown-menu>.disabled>a:hover {
+.dropdown-menu>.disabled>a:hover { 
     text-decoration: none;
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
+    /*filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)*/
 }
 
 .open>.dropdown-menu {
