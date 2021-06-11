@@ -1,3 +1,31 @@
+
+
+Aller au contenu
+Utiliser Gmail avec un lecteur d'écran
+johnpitton@free.fr 
+Meet
+Nouvelle réunion
+Rejoindre une réunion
+Hangouts
+
+1 sur 5
+P4 - Corrections
+Boîte de réception
+
+john pitton via gmail.com 
+Pièces jointes
+dim. 6 juin 21:16 (il y a 5 jours)
+À moi
+
+Ca me semble pas mal comme ca
+
+Bon courage 
+
+
+--
+-----------------------------------
+John PITTON
+3 pièces jointes
 body {
     margin: 0;
     padding: 0;
@@ -39,6 +67,40 @@ a:hover {
     position: relative;
 }
 
+blockquote{
+    margin-top: 5vh;
+    border-left:none;
+}
+blockquote .quote {
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 3vh;
+}
+blockquote footer {
+    color: #333333;
+    font-size: 18px;
+}
+
+.label {
+    color:#333; 
+    font-weight:700;
+    font-size:14px;
+}
+
+footer{
+    padding: 20px !important;
+}
+
+footer p{
+    color:#333333 !important;
+    font-weight:bold;
+    margin-bottom: 20px;;
+}
+
+.portfolio-row img{
+    width: 100%;
+}
+
 .row_footer{
     background-color: rgba(0,0,0,0.6);
 }
@@ -50,7 +112,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 50px;
 }
 
 .bloc-md {
@@ -289,7 +351,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .navbar {
@@ -665,6 +727,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color:#fff !important;
 }
 
 .hero-bloc-text-sub {
@@ -682,12 +745,14 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    color:#fff !important;
+    font-size: 18px;
 }
 
 .h1 {
@@ -713,7 +778,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 1.4em;
 }
 
@@ -787,8 +852,9 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #333333;
+    color: #c27956!important;
+    border-color: #c27956;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1050,3 +1116,5 @@ h4 {
         text-align: center;
     }
 }
+style.css
+Affichage de style.css en cours...
