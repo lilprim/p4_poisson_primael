@@ -4358,7 +4358,7 @@ tbody.collapse.in {
     color: #fff;
     text-decoration: none;
     background-color: #337ab7;
-    outline: 0
+    outline: 0 
 }
 
 .dropdown-menu>.disabled>a,
