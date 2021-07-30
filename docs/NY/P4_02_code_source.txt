@@ -1,3 +1,0 @@
-repo github : https://github.com/bigyaya/bigyaya.github.io
-
-lien du site : bigyaya.github.io
