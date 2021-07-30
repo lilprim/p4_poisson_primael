@@ -4358,7 +4358,7 @@ tbody.collapse.in {
     color: #fff;
     text-decoration: none;
     background-color: #337ab7;
-    outline: 0 
+    outline: 0
 }
 
 .dropdown-menu>.disabled>a,
@@ -4368,12 +4368,12 @@ tbody.collapse.in {
 }
 
 .dropdown-menu>.disabled>a:focus,
-.dropdown-menu>.disabled>a:hover { 
+.dropdown-menu>.disabled>a:hover {
     text-decoration: none;
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    
+    /* filter: progid:DXImageTransform.Microsoft.gradient(enabled=false) */
 }
 
 .open>.dropdown-menu {
@@ -7685,7 +7685,7 @@ button.close {
     background-color: #000\9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
-    border-radius: 10px 
+    border-radius: 10px
 }
 
 .carousel-indicators .active {

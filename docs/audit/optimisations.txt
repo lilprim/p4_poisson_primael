@@ -1,0 +1,12 @@
+Mes 10 actions d'optimisation ont étés les suivantes :
+
+    Optimiser l’utilisation des mots clés
+    Optimiser l’URL
+    Définir des balises canoniques
+    Optimiser les balises meta
+    Structurer et hiérarchiser le code HTML
+    Définir des balises Open Graph
+    Optimiser la vitesse : alléger les pages
+    Accessibilité : améliorer le visuel
+    Accessibilité : optimiser les descriptions
+    Améliorer le responsive du site
